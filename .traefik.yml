@@ -1,6 +1,6 @@
 displayName: Forced static body
 summary: Rewrites the HTTP response body with a constant string. Always return HTTP 200 OK
 type: middleware
-import: github.com/benoitg31/traefik-forced-plugin
+import: github.com/benoitg31/traefik-forced-body-plugin
 testData:
   body: This is a forced body reponse from plugin

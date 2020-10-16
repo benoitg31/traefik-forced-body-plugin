@@ -1,5 +1,5 @@
-// Package plugin_forcedbody a plugin to rewrite response body.
-package plugin_forcedbody
+// Package traefik_forced_body_plugin a plugin to rewrite response body.
+package traefik_forced_body_plugin
 
 import (
 	"bufio"

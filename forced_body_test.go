@@ -1,4 +1,4 @@
-package plugin_forcedbody
+package traefik_forced_body_plugin
 
 import (
 	"bytes"
