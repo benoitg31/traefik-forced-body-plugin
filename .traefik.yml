@@ -1,0 +1,6 @@
+displayName: Forced static body
+summary: Rewrites the HTTP response body with a constant string. Always return HTTP 200 OK
+type: middleware
+import: github.com/benoitg31/plugin-rewritebody
+testData:
+  body: forced body
