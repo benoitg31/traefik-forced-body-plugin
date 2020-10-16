@@ -11,8 +11,8 @@ with a constant string passed in the config.
 [pilot]
   token = "xxxx"
 
-[experimental.plugins.rewritebody]
-  modulename = "github.com/benoitg31/plugin-rewritebody"
+[experimental.plugins.forcedbody]
+  modulename = "github.com/benoitg31/traefik-forced-plugin"
   version = "v1.0.2"
 ```
 
